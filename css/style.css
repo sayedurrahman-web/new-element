@@ -1,0 +1,73 @@
+body{
+    margin: 0 auto;
+    width: 860px;
+    background-color:lightgrey ;
+}
+.ita{
+    background-color: teal;
+    width: 80%;
+}
+.mark{
+    background-color: hotpink;
+    width: 80%;
+}
+.pre{
+    background-color: peru;
+    width: 80%;
+}
+.progress{
+    background-color: darkmagenta;
+    width: 80%;
+}
+.quote{
+    background-color: tomato;
+    width: 80%;
+}
+.rt{
+    background-color: rgb(202, 66, 173);
+    width: 80%;
+}
+.samp{
+    background-color: bisque;
+    width: 80%;
+}
+.form{
+    background-color: cornflowerblue;
+    width: 80%;
+}
+.section{
+    background-color: rgb(128, 21, 128);
+    width: 80%;
+}
+.small{
+    background-color: sandybrown;
+    width: 80%;
+}
+.sub{
+    background-color: brown;
+    width: 80%;
+}
+.details{
+    background-color: aquamarine;
+    width: 80%;
+}
+.svg{
+    background-color: darkmagenta;
+    width: 80%;
+}
+.table{
+    background-color: gray;
+    width: 80%;
+}
+.time{
+    background-color: teal;
+    width: 80%;
+}
+.ul{
+    background-color: crimson;
+    width: 80%;
+}
+.dl{
+    background-color: red;
+    width: 80%;
+}
